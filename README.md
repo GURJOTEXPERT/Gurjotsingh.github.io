@@ -30,11 +30,11 @@ To set up this website on your local machine or your web server, follow these st
 
 1. **Clone the repository**:
     ```
-    git clone [https://github.com/GURJOTEXPERT/Gurjotsingh.github.io]
+    git clone [https://github.com/GURJOTEXPERT/Gurjotsingh.github.io
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd your-portfolio
+    cd Gurjotsingh.github.io
     ```
 3. **Upload files to your web server**:
     - Use an FTP client or your hosting provider’s file manager to upload the `index.html`, `styles.css`, and (optional) `script.js` files to your hosting account.
