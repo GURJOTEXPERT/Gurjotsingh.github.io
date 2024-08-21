@@ -30,7 +30,7 @@ To set up this website on your local machine or your web server, follow these st
 
 1. **Clone the repository**:
     ```
-    git clone [https://github.com/GURJOTEXPERT/Gurjotsingh.github.io
+    git clone https://github.com/GURJOTEXPERT/Gurjotsingh.github.io
     ```
 2. **Navigate to the project directory**:
     ```bash
